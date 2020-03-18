@@ -93,5 +93,5 @@ class elasticSearchLoadTest {
     }
 }
 
-$run = new elasticsearchLoadTest();
+$run = new elasticSearchLoadTest();
 $run->launch();
