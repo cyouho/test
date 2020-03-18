@@ -29,7 +29,7 @@ class elasticSearchLoadTest {
 
         $handles = [];
 
-        $cookies = 'PHPSESSID=n06fnop0venkuu7101j34uc2i3; _disfa=dfcac6da1b04c4f8ff4aa94a0c4d0e10; _session_id=3d33f5d22c09d1beTIME_COOKIE=1; _fbp=fb.1.1584426547659.1304210976';
+        $cookies = 'xxxxx';
         $headers = [
             'X-Requested-With: XMLHttpRequest'
         ];
